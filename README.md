@@ -37,6 +37,4 @@ SignSpeak is an ESP32-based system that translates sign language into speech, pr
 2. **ESP32 Processes the Input**: Converts detected input into a corresponding command.  
 3. **Speech Output & Display**: The system plays the corresponding speech and shows the text on the OLED display.  
 4. **Cloud Monitoring**: The detected input is sent to the cloud for tracking.  
-5. **App Customization**: Users can modify and assign custom speech commands to different sign inputs.  
-
-This README provides an overview of your project for GitHub. Let me know if you need any modifications! 🚀
+5. **App Customization**: Users can modify and assign custom speech commands to different sign inputs. 
